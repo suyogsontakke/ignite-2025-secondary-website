@@ -17,7 +17,7 @@
   <strong>Live Demo: <a href="https://ignite-2025-secondary-website.vercel.app/">WEBSITE</a></strong>
 </div>
 
-![IGNITE 2025 UPI Version Screenshot](https://i.postimg.cc/1tRnYkJK/image.png)
+![IGNITE 2025 UPI Version Screenshot](https://i.postimg.cc/vZB9qDtV/image.png)
 
 ---
 
