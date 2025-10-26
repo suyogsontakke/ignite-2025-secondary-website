@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs welcome"/>
   </p>
   
-  <strong>Live Demo: <a href="#">\[YOUR_LIVE_DEMO_LINK_HERE\]</a></strong>
+  <strong>Live Demo: <a href="https://ignite-2025-secondary-website.vercel.app/">WEBSITE</a></strong>
 </div>
 
 ![IGNITE 2025 UPI Version Screenshot](https://i.postimg.cc/1tRnYkJK/image.png)
