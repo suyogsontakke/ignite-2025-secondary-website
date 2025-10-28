@@ -123,11 +123,12 @@ To get this UPI version booking website running locally.
 
 1.  **Clone the Repo**
    
-    ```bash
-    git clone https://github.com/suyogsontakke/ignite-2025-secondary-website.git
-    cd ignite-2025-secondary-website
-    ```
-
+```bash
+git clone https://github.com/suyogsontakke/ignite-2025-secondary-website.git
+```
+```bash
+cd ignite-2025-secondary-website
+ ``` 
 2.  **Configure Firestore Rules**
     * Go to your **Firebase Console** -> **Firestore Database** -> **Rules**.
     * Paste the contents of the `FIRESTORE.rules` file provided in this repository. Ensure it allows anonymous users to create documents in `pending_registrations` with the specified fields (`name`, `email`, `mobile`, `status`, `registeredAt`).
